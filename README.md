@@ -1,4 +1,4 @@
-## 🧑‍💻 À propos de moi
+## About me
 
 I'm **Edenn** I'm sixteen and have just started coding. I really enjoy **low-level** programming and **automation** using bots, for example.
 
