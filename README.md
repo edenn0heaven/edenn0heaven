@@ -28,10 +28,11 @@ I'm **Edenn** I'm sixteen and have just started coding. I really enjoy **low-lev
 
 <div align="center">
 
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=edenn0heaven&show_icons=true&theme=tokyonight)
-![Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=edenn0heaven&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=edenn0heaven&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=edenn0heaven&layout=compact&theme=tokyonight" />
 
 </div>
+
 
 ## Contact
 
